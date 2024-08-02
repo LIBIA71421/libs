@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c070cd84.css",
+    "main.js": "/static/js/main.65a637af.js",
+    "static/media/me.jpg": "/static/media/me.d44e89f4938634eda2cb.jpg",
+    "static/media/BinarioCreativo.png": "/static/media/BinarioCreativo.3c14b454fe71cb91ac6b.png",
+    "static/media/CV.pdf": "/static/media/CV.999de919ea60eadeceb7.pdf",
+    "static/media/mandaCryp.jpeg": "/static/media/mandaCryp.f837d76456b919d46262.jpeg",
+    "static/media/paginaWeb.jpeg": "/static/media/paginaWeb.1f3399e5c8fe1aa8e1ea.jpeg",
+    "static/media/mandaCryp2.jfif": "/static/media/mandaCryp2.05c1029bedd02ac72f87.jfif",
+    "static/media/spider3.jpg": "/static/media/spider3.3033d9e631245ad3833d.jpg",
+    "static/media/spider4.jpg": "/static/media/spider4.5a3e64a1cbdd65df01a5.jpg",
+    "static/media/doc.jpeg": "/static/media/doc.c217018f7909b2e34e89.jpeg",
+    "static/media/descargar (2).jfif": "/static/media/descargar (2).2f67b8e6bcfab279cbf3.jfif",
+    "static/media/spider1.jpg": "/static/media/spider1.521cf3517d130460529a.jpg",
+    "static/media/about.jpg": "/static/media/about.e4756c262d20e661c19e.jpg",
+    "index.html": "/index.html",
+    "main.c070cd84.css.map": "/static/css/main.c070cd84.css.map",
+    "main.65a637af.js.map": "/static/js/main.65a637af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c070cd84.css",
+    "static/js/main.65a637af.js"
+  ]
+}
