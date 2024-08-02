@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/libs/static/css/main.0dc545d2.css",
-    "main.js": "/libs/static/js/main.540ee067.js",
+    "main.css": "/libs/static/css/main.e3d29400.css",
+    "main.js": "/libs/static/js/main.b95a0852.js",
     "static/media/me.jpg": "/libs/static/media/me.d44e89f4938634eda2cb.jpg",
+    "static/media/BinarioCreativo.png": "/libs/static/media/BinarioCreativo.3c14b454fe71cb91ac6b.png",
     "static/media/CV.pdf": "/libs/static/media/CV.999de919ea60eadeceb7.pdf",
+    "static/media/mandaCryp.jpeg": "/libs/static/media/mandaCryp.f837d76456b919d46262.jpeg",
+    "static/media/paginaWeb.jpeg": "/libs/static/media/paginaWeb.1f3399e5c8fe1aa8e1ea.jpeg",
+    "static/media/mandaCryp2.jfif": "/libs/static/media/mandaCryp2.05c1029bedd02ac72f87.jfif",
+    "static/media/spider3.jpg": "/libs/static/media/spider3.3033d9e631245ad3833d.jpg",
+    "static/media/spider4.jpg": "/libs/static/media/spider4.5a3e64a1cbdd65df01a5.jpg",
+    "static/media/doc.jpeg": "/libs/static/media/doc.c217018f7909b2e34e89.jpeg",
+    "static/media/descargar (2).jfif": "/libs/static/media/descargar (2).2f67b8e6bcfab279cbf3.jfif",
+    "static/media/spider1.jpg": "/libs/static/media/spider1.521cf3517d130460529a.jpg",
     "static/media/about.jpg": "/libs/static/media/about.e4756c262d20e661c19e.jpg",
     "index.html": "/libs/index.html",
-    "main.0dc545d2.css.map": "/libs/static/css/main.0dc545d2.css.map",
-    "main.540ee067.js.map": "/libs/static/js/main.540ee067.js.map"
+    "main.e3d29400.css.map": "/libs/static/css/main.e3d29400.css.map",
+    "main.b95a0852.js.map": "/libs/static/js/main.b95a0852.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dc545d2.css",
-    "static/js/main.540ee067.js"
+    "static/css/main.e3d29400.css",
+    "static/js/main.b95a0852.js"
   ]
 }
