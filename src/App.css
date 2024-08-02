@@ -6,9 +6,9 @@
   --sat: 0%;
   --title-color:hsl(var(--hue), var(--sat), 20%);
   --title-color-dark:hsl(var(--hue), var(--sat), 0%);
-  --text-color:hsl(var(--hue), var(--sat), 46%);
-  --body-color:hsl(var(--hue), var(--sat), 98%);
-  --container-color: #fff;
+  --text-color:hsl(var(--hue), var(--sat), 6%);
+  --body-color:hsl(var(--hue), var(--sat), 90%);
+  --container-color: #e8e7f1b4;
 
   --body-font:  "Courier Prime", monospace;
 
@@ -71,6 +71,11 @@
  body{
   background-color: var(--body-color);
   color: var(--text-color);
+
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+    url("./assets/descargar (2).jfif") no-repeat center center fixed;
+
  }
 
  h1, h2, h3 {

@@ -15,7 +15,7 @@ const About = () => {
             <div className="about_data">
                 <Info/>
                 <p className="about_description">
-                   Tengo experiencia en desarrollo web y software utilizando tecnologías como C++, C#, Angular, React, JavaScript, Node.js, HTML, CSS, SQL Server, MongoDB, Firebase y Wix. Entre mis proyectos destacados se encuentra un ecommerce completo en React. Además, he trabajado como auxiliar en ayudantías en la universidad y participé en una hackatón con un proyecto llamado Neuromynda, donde aprendí a usar Gemini como evaluador de estados emocionales en JavaScript.  
+                I have experience in web and software development using technologies such as C++, C#, Angular, React, JavaScript, Node.js, HTML, CSS, SQL Server, MongoDB, Firebase, and Wix. Among my outstanding projects is a complete ecommerce in React. In addition, I have worked as an assistant in assistantships at the university and participated in a hackathon with a project called Neuromynda, where I learned how to use Gemini as an evaluator of emotional states in JavaScript. 
                 </p>
                 <a download="" href={CV} className="button button_flex">
                     Download CV
