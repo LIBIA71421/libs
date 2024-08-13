@@ -6,13 +6,15 @@ import Image5 from "../../assets/spider4.jpg"
 import Image6 from "../../assets/spider1.jpg"
 import Image7 from "../../assets/spider3.jpg"
 import Image8 from "../../assets/BinarioCreativo.png"
+import Image9 from "../../assets/BinarioCreativo3.png"
+import Image10 from "../../assets/BinarioCreativo5.png"
 
 export const Data = [
     {
         id: 1,
         image: Image1,
         title: "MandaCryp",
-        description: "Mandacrip desarrollo de aplicacion de mensajeria instantanea con lenguaje c# y uso de encriptacion RSA, enlazada a una base de datos en SQL Server"
+        description: "Mandacrip development of instant messaging application with c# language and use of RSA encryption, linked to a database in SQL Server"
     },
     {
         id: 2,
@@ -24,19 +26,19 @@ export const Data = [
         id: 3,
         image: Image3,
         title: "Hospital",
-        description: "Aplicación de administración de pacientes en C#"
+        description: "Patient management application with the .NET environment in C#"
     },
     {
         id: 4,
         image: Image4,
         title: "Portfolio",
-        description: "Aprendizaje de lenguajes de diseño y etiquetado, con el uso de librerías de Node.js y JavaScript para la parte responsive"
+        description: "Learning design and labeling languages, using Node.js and JavaScript libraries for the responsive part"
     },
     {
         id: 5,
         image: Image5,
         title: "SPIDER",
-        description: "Aplicación para resolución de problemas de física basada en los movimientos de Spiderman y una una calculadora en C#"
+        description: "Application for solving physics problems based on Spiderman's movements and a calculator in C#"
     },
     {
         id: 6,
@@ -54,6 +56,18 @@ export const Data = [
         id: 8,
         image: Image8,
         title: "BinarioCreativo",
-        description: " Desarrollo de un proyecto completo de ecommerce utilizando React, firebase, stripe"
+        description: "Development of a complete ecommerce project using React, Firebase, Stripe"
+    },
+    {
+        id: 9,
+        image: Image9,
+        title: "BinarioCreativo",
+        description: ""
+    },
+    {
+        id: 10,
+        image: Image10,
+        title: "BinarioCreativo",
+        description: ""
     },
 ];
