@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c070cd84.css",
-    "main.js": "/static/js/main.31a99953.js",
+    "main.js": "/static/js/main.09f400c9.js",
     "static/media/me.jpg": "/static/media/me.d44e89f4938634eda2cb.jpg",
     "static/media/BinarioCreativo3.png": "/static/media/BinarioCreativo3.41fa3966cc07f698ef2b.png",
     "static/media/BinarioCreativo.png": "/static/media/BinarioCreativo.3c14b454fe71cb91ac6b.png",
@@ -18,10 +18,10 @@
     "static/media/about.jpg": "/static/media/about.e4756c262d20e661c19e.jpg",
     "index.html": "/index.html",
     "main.c070cd84.css.map": "/static/css/main.c070cd84.css.map",
-    "main.31a99953.js.map": "/static/js/main.31a99953.js.map"
+    "main.09f400c9.js.map": "/static/js/main.09f400c9.js.map"
   },
   "entrypoints": [
     "static/css/main.c070cd84.css",
-    "static/js/main.31a99953.js"
+    "static/js/main.09f400c9.js"
   ]
 }
