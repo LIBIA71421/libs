@@ -11,7 +11,7 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home_subtitle">Systems Engineer</h3>
-        <p className="home_descripcion"> My name is Libya Nataly Román Arevalo and I am currently a Systems Engineering student at the Bolivian Catholic University "San Pablo". </p>
+        <p className="home_descripcion"> My name is Libia Nataly Román Arevalo and I am currently a Systems Engineering student at the Bolivian Catholic University "San Pablo". </p>
         <a href="#contact" className="button button--flex">
             Say Hello
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="button_icon">

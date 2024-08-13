@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.c070cd84.css",
-    "main.js": "/static/js/main.8434f428.js",
+    "main.js": "/static/js/main.31a99953.js",
     "static/media/me.jpg": "/static/media/me.d44e89f4938634eda2cb.jpg",
+    "static/media/BinarioCreativo3.png": "/static/media/BinarioCreativo3.41fa3966cc07f698ef2b.png",
     "static/media/BinarioCreativo.png": "/static/media/BinarioCreativo.3c14b454fe71cb91ac6b.png",
-    "static/media/CV.pdf": "/static/media/CV.999de919ea60eadeceb7.pdf",
+    "static/media/CV.pdf": "/static/media/CV.61b6504df486247fb72e.pdf",
     "static/media/mandaCryp.jpeg": "/static/media/mandaCryp.f837d76456b919d46262.jpeg",
     "static/media/paginaWeb.jpeg": "/static/media/paginaWeb.1f3399e5c8fe1aa8e1ea.jpeg",
     "static/media/mandaCryp2.jfif": "/static/media/mandaCryp2.05c1029bedd02ac72f87.jfif",
@@ -13,13 +14,14 @@
     "static/media/doc.jpeg": "/static/media/doc.c217018f7909b2e34e89.jpeg",
     "static/media/descargar (2).jfif": "/static/media/descargar (2).2f67b8e6bcfab279cbf3.jfif",
     "static/media/spider1.jpg": "/static/media/spider1.521cf3517d130460529a.jpg",
+    "static/media/BinarioCreativo5.png": "/static/media/BinarioCreativo5.357ec743a2811ff25d8a.png",
     "static/media/about.jpg": "/static/media/about.e4756c262d20e661c19e.jpg",
     "index.html": "/index.html",
     "main.c070cd84.css.map": "/static/css/main.c070cd84.css.map",
-    "main.8434f428.js.map": "/static/js/main.8434f428.js.map"
+    "main.31a99953.js.map": "/static/js/main.31a99953.js.map"
   },
   "entrypoints": [
     "static/css/main.c070cd84.css",
-    "static/js/main.8434f428.js"
+    "static/js/main.31a99953.js"
   ]
 }
