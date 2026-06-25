@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import "./about.css"
 import AboutImg from "../../assets/about.jpg"
 import Info from './Info'
-import CV from "../../assets/CV.pdf"
+import Cv from '../cv/Cv'
 
 const About = () => {
+  const [cvOpen, setCvOpen] = useState(false)
+
   return (
     <section className="about section" id="about">
         <h2 className="section_title">About Me</h2>
@@ -17,8 +19,8 @@ const About = () => {
                 <p className="about_description">
                 I have experience in web and software development using technologies such as C++, C#, Angular, React, JavaScript, Node.js, HTML, CSS, SQL Server, MongoDB, Firebase, and Wix. Among my outstanding projects is a complete ecommerce in React. In addition, I have worked as an assistant in assistantships at the university and participated in a hackathon with a project called Neuromynda, where I learned how to use Gemini as an evaluator of emotional states in JavaScript. 
                 </p>
-                <a download="" href={CV} className="button button_flex">
-                    Download CV
+                <a href="#cv" className="button button_flex" onClick={() => setCvOpen((prev) => !prev)}>
+                    {cvOpen ? "Hide My CV" : "View My CV"}
                     <svg class="button_icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" 
                         width="24" height="24" viewBox="0 0 24 24" enable-background="new 0 0 28 32" >
                         <g>
@@ -38,6 +40,8 @@ const About = () => {
                 </a>
             </div>
         </div>
+
+        <Cv open={cvOpen} />
     </section>
   )
 }
